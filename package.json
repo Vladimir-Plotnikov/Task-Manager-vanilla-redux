@@ -2,7 +2,7 @@
   "name": "react-homework-template",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://Vladimir-Plotnikov.github.io/goit-react-hw-06-phonebook-testing/",
+  "homepage": "https://Vladimir-Plotnikov.github.io/Task-Manager-vanilla-redux/",
   "dependencies": {
     "@redux-devtools/extension": "^3.2.5",
     "@testing-library/jest-dom": "^5.16.3",
