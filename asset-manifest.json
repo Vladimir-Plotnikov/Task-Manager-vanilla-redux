@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/goit-react-hw-06-phonebook-testing/static/js/main.0ad05362.js",
-    "index.html": "/goit-react-hw-06-phonebook-testing/index.html",
-    "main.0ad05362.js.map": "/goit-react-hw-06-phonebook-testing/static/js/main.0ad05362.js.map"
+    "main.js": "/Task-Manager-vanilla-redux/static/js/main.5e710c7c.js",
+    "index.html": "/Task-Manager-vanilla-redux/index.html",
+    "main.5e710c7c.js.map": "/Task-Manager-vanilla-redux/static/js/main.5e710c7c.js.map"
   },
   "entrypoints": [
-    "static/js/main.0ad05362.js"
+    "static/js/main.5e710c7c.js"
   ]
 }
